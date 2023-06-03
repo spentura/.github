@@ -1,4 +1,4 @@
-![Open Source at Spentura](../assets/banner.jpg) 
+![Open Source at Spentura](/assets/banner.jpg) 
 
 ## Get Involved
 
