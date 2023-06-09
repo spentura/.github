@@ -11,4 +11,7 @@ Visit [opensource.spentura.com](https://opensource.spentura.com) to learn more!
 
 ----
 
-Spentura projects adopt the [Spentura Open Source Code of Conduct](https://opensource.spentura.com/codeofconduct/). For more information see the [Code of Conduct FAQ](https://opensource.spentura.com/codeofconduct/faq/).
+Spentura public projects (public repositories) adopt the [Spentura Open Source Code of Conduct](https://opensource.spentura.com/codeofconduct/). For more information see the [Code of Conduct FAQ](https://opensource.spentura.com/codeofconduct/faq/).
+
+All private repositories are the copyright of PT Solusi Teknologi Komputer.
+Spentura is a registered trademark of PT Solusi Teknologi Komputer.
